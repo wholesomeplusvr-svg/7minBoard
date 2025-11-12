@@ -1,0 +1,67 @@
+{ "fileFormat" : { }, "objects" : [ { <object_detail>, "fields" : [ { <Field1 details> } { <Field2 details> }…… ] }] }
+
+{
+  "DeckName": "WholesomePlus Board",
+  "DeckBy": "WholesomePlus",
+  "Segments": [
+"Favorite names to be called when degraded, If none spin again.",
+"Favorite names to be called when praised, If none spin again.",
+"Plot Twist! YOU give <player> a dare",
+"<Player> , <Player>, and/or <Player> can all touch you for <range[2-5]> turns",
+"Sit on <player> lap for 2 <range[2-5]> turns",
+"Take a dare from everyone that would like to give you one",
+"Masturbate for <range[1-3]> rounds",
+"HEAR ME OUT (a character you'd smash and you need to explain it)",
+"<local> 1 piece of clothing",
+"What's your favorite position.",
+"<local> must talk like a sports caster for  <player> and <player> 's ERP session.",
+"Send a flirty DM to <player> , if not spin again.",
+"Lap dance on a volunteer or whoever Fallen chooses.",
+"Do a strip tease for the group",
+"Mimic sending a sexy text aloud as if you were texting <player>",
+"Roleplay a steamy conversation with <player> as if you're meeting in a private room.",
+"Put on some clothes you whore! [1 piece]",
+"Kiss Someone",
+"Answer a Truth",
+"Marry-Fuck-Fuck",
+"Lick someone's Neck. Group picks.",
+"Do a Dare.",
+"Who as seen you naked the most from those in this room?",
+"Which 3 people would you fuck right now if they asked?",
+"How did you 1st learn about ERP/ Tell a cringe ERP story.",
+"How many people here would you like to kiss.",
+"How many people in here would you want to Dom you. Bonus points for sharing who",
+"How many people in here would you want to Sub you. Bonus points for sharing who",
+"When was the last time you faked it.",
+"<local> must now obey <player> for 1 round",
+"Sensually make out with <player> like in an adult film",
+"Kiss as many players as you wish, they choose where you kiss.",
+"Moan / Say something dirty to one of the players",
+"Flirt with a player in emoji speak.",
+"You are now in a one-sided relationship with <player> for 1 round",
+"Kiss <player> anywhere they choose.",
+"Hug / Kiss Fallen.",
+"Describe your favorite toy to the group.",
+"Pretend to be <player> for 1 round",
+"Re-enact an ERP moment with a volunteer.",
+"Top 3 favorite lewd tags to search",
+"What's an unexplored kink you'd link to try out.",
+"Between <local> and <Player> who is more dominate.",
+"Between <local> and <Player> who is more submissive.",
+"Call someone a good girl/boy! Group Picks.",
+"Who would be the worst Sub.",
+"Who would be the worst Dom.",
+"Who would make the best brat",
+"Group makes a rule for you. Lasts 1 rounds.",
+"What was one of your favorite ERP sessions.",
+"Who here surprised you with how horny they are in private.",
+  ]
+}
+
+
+
+
+
+
+
+
